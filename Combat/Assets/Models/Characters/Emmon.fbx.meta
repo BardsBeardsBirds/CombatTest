@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: 3f24061699e48da49b9d0075fccda277
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boots
+    100002: Coat
+    100004: //RootNode
+    100006: geometry
+    100008: Hair
+    100010: held_Ctrl_ChestEndEffector
+    100012: held_Ctrl_ChestOriginEffector
+    100014: held_Ctrl_Head
+    100016: held_Ctrl_HeadEffector
+    100018: held_Ctrl_Hips
+    100020: held_Ctrl_HipsEffector
+    100022: held_Ctrl_LeftAnkleEffector
+    100024: held_Ctrl_LeftArm
+    100026: held_Ctrl_LeftElbowEffector
+    100028: held_Ctrl_LeftFoot
+    100030: held_Ctrl_LeftFootEffector
+    100032: held_Ctrl_LeftForeArm
+    100034: held_Ctrl_LeftHand
+    100036: held_Ctrl_LeftHandIndex1
+    100038: held_Ctrl_LeftHandIndex2
+    100040: held_Ctrl_LeftHandIndex3
+    100042: held_Ctrl_LeftHandIndex4
+    100044: held_Ctrl_LeftHandIndexEffector
+    100046: held_Ctrl_LeftHandMiddle1
+    100048: held_Ctrl_LeftHandMiddle2
+    100050: held_Ctrl_LeftHandMiddle3
+    100052: held_Ctrl_LeftHandMiddle4
+    100054: held_Ctrl_LeftHandMiddleEffector
+    100056: held_Ctrl_LeftHandThumb1
+    100058: held_Ctrl_LeftHandThumb2
+    100060: held_Ctrl_LeftHandThumb3
+    100062: held_Ctrl_LeftHandThumb4
+    100064: held_Ctrl_LeftHandThumbEffector
+    100066: held_Ctrl_LeftHipEffector
+    100068: held_Ctrl_LeftKneeEffector
+    100070: held_Ctrl_LeftLeg
+    100072: held_Ctrl_LeftShoulder
+    100074: held_Ctrl_LeftShoulderEffector
+    100076: held_Ctrl_LeftToeBase
+    100078: held_Ctrl_LeftUpLeg
+    100080: held_Ctrl_LeftWristEffector
+    100082: held_Ctrl_Neck
+    100084: held_Ctrl_Reference
+    100086: held_Ctrl_RightAnkleEffector
+    100088: held_Ctrl_RightArm
+    100090: held_Ctrl_RightElbowEffector
+    100092: held_Ctrl_RightFoot
+    100094: held_Ctrl_RightFootEffector
+    100096: held_Ctrl_RightForeArm
+    100098: held_Ctrl_RightHand
+    100100: held_Ctrl_RightHandIndex1
+    100102: held_Ctrl_RightHandIndex2
+    100104: held_Ctrl_RightHandIndex3
+    100106: held_Ctrl_RightHandIndex4
+    100108: held_Ctrl_RightHandIndexEffector
+    100110: held_Ctrl_RightHandMiddle1
+    100112: held_Ctrl_RightHandMiddle2
+    100114: held_Ctrl_RightHandMiddle3
+    100116: held_Ctrl_RightHandMiddle4
+    100118: held_Ctrl_RightHandMiddleEffector
+    100120: held_Ctrl_RightHandThumb1
+    100122: held_Ctrl_RightHandThumb2
+    100124: held_Ctrl_RightHandThumb3
+    100126: held_Ctrl_RightHandThumb4
+    100128: held_Ctrl_RightHandThumbEffector
+    100130: held_Ctrl_RightHipEffector
+    100132: held_Ctrl_RightKneeEffector
+    100134: held_Ctrl_RightLeg
+    100136: held_Ctrl_RightShoulder
+    100138: held_Ctrl_RightShoulderEffector
+    100140: held_Ctrl_RightToeBase
+    100142: held_Ctrl_RightUpLeg
+    100144: held_Ctrl_RightWristEffector
+    100146: held_Ctrl_Spine
+    100148: held_Ctrl_Spine1
+    100150: held_Ctrl_Spine2
+    100152: held_Ctrl_Spine3
+    100154: held_Ctrl_Spine4
+    100156: held_Head
+    100158: held_Hips
+    100160: held_LeftArm
+    100162: held_LeftFoot
+    100164: held_LeftForeArm
+    100166: held_LeftHand
+    100168: held_LeftHandIndex1
+    100170: held_LeftHandIndex2
+    100172: held_LeftHandIndex3
+    100174: held_LeftHandIndex4
+    100176: held_LeftHandMiddle1
+    100178: held_LeftHandMiddle2
+    100180: held_LeftHandMiddle3
+    100182: held_LeftHandMiddle4
+    100184: held_LeftHandThumb1
+    100186: held_LeftHandThumb2
+    100188: held_LeftHandThumb3
+    100190: held_LeftHandThumb4
+    100192: held_LeftLeg
+    100194: held_LeftShoulder
+    100196: held_LeftToeBase
+    100198: held_LeftUpLeg
+    100200: held_Neck
+    100202: held_Reference
+    100204: held_RightArm
+    100206: held_RightFoot
+    100208: held_RightForeArm
+    100210: held_RightHand
+    100212: held_RightHandIndex1
+    100214: held_RightHandIndex2
+    100216: held_RightHandIndex3
+    100218: held_RightHandIndex4
+    100220: held_RightHandMiddle1
+    100222: held_RightHandMiddle2
+    100224: held_RightHandMiddle3
+    100226: held_RightHandMiddle4
+    100228: held_RightHandThumb1
+    100230: held_RightHandThumb2
+    100232: held_RightHandThumb3
+    100234: held_RightHandThumb4
+    100236: held_RightLeg
+    100238: held_RightShoulder
+    100240: held_RightToeBase
+    100242: held_RightUpLeg
+    100244: held_Spine
+    100246: held_Spine1
+    100248: held_Spine2
+    100250: held_Spine3
+    100252: held_Spine4
+    100254: L_Eye
+    100256: L_Eye_grp
+    100258: R_Eye
+    100260: R_Eye_grp
+    100262: Skin
+    100264: Trousers
+    100266: Eyes
+    100268: Emmon1_LeftFoot
+    100270: Emmon1_LeftForeArm
+    100272: Emmon1_LeftHand
+    100274: Emmon1_LeftHandIndex1
+    100276: Emmon1_LeftHandIndex2
+    100278: Emmon1_LeftHandIndex3
+    100280: Emmon1_LeftHandIndex4
+    100282: Emmon1_LeftHandMiddle1
+    100284: Emmon1_LeftHandMiddle2
+    100286: Emmon1_LeftHandMiddle3
+    100288: Emmon1_LeftHandMiddle4
+    100290: Emmon1_LeftHandPinky1
+    100292: Emmon1_LeftHandPinky2
+    100294: Emmon1_LeftHandPinky3
+    100296: Emmon1_LeftHandPinky4
+    100298: Emmon1_LeftHandRing1
+    100300: Emmon1_LeftHandRing2
+    100302: Emmon1_LeftHandRing3
+    100304: Emmon1_LeftHandRing4
+    100306: Emmon1_LeftHandThumb1
+    100308: Emmon1_LeftHandThumb2
+    100310: Emmon1_LeftHandThumb3
+    100312: Emmon1_LeftHandThumb4
+    100314: Emmon1_LeftToeBase
+    100316: Emmon1_RightFoot
+    100318: Emmon1_RightForeArm
+    100320: Emmon1_RightHand
+    100322: Emmon1_RightHandIndex1
+    100324: Emmon1_RightHandIndex2
+    100326: Emmon1_RightHandIndex3
+    100328: Emmon1_RightHandIndex4
+    100330: Emmon1_RightHandMiddle1
+    100332: Emmon1_RightHandMiddle2
+    100334: Emmon1_RightHandMiddle3
+    100336: Emmon1_RightHandMiddle4
+    100338: Emmon1_RightHandPinky1
+    100340: Emmon1_RightHandPinky2
+    100342: Emmon1_RightHandPinky3
+    100344: Emmon1_RightHandPinky4
+    100346: Emmon1_RightHandRing1
+    100348: Emmon1_RightHandRing2
+    100350: Emmon1_RightHandRing3
+    100352: Emmon1_RightHandRing4
+    100354: Emmon1_RightHandThumb1
+    100356: Emmon1_RightHandThumb2
+    100358: Emmon1_RightHandThumb3
+    100360: Emmon1_RightHandThumb4
+    100362: Emmon1_RightToeBase
+    100364: Emmon_Head
+    100366: Emmon_Hips
+    100368: Emmon_LeftArm
+    100370: Emmon_LeftLeg
+    100372: Emmon_LeftShoulder
+    100374: Emmon_LeftUpLeg
+    100376: Emmon_Neck
+    100378: Emmon_Reference
+    100380: Emmon_RightArm
+    100382: Emmon_RightLeg
+    100384: Emmon_RightShoulder
+    100386: Emmon_RightUpLeg
+    100388: Emmon_Spine
+    100390: Emmon_Spine1
+    100392: Emmon_Spine2
+    400000: Boots
+    400002: Coat
+    400004: //RootNode
+    400006: geometry
+    400008: Hair
+    400010: held_Ctrl_ChestEndEffector
+    400012: held_Ctrl_ChestOriginEffector
+    400014: held_Ctrl_Head
+    400016: held_Ctrl_HeadEffector
+    400018: held_Ctrl_Hips
+    400020: held_Ctrl_HipsEffector
+    400022: held_Ctrl_LeftAnkleEffector
+    400024: held_Ctrl_LeftArm
+    400026: held_Ctrl_LeftElbowEffector
+    400028: held_Ctrl_LeftFoot
+    400030: held_Ctrl_LeftFootEffector
+    400032: held_Ctrl_LeftForeArm
+    400034: held_Ctrl_LeftHand
+    400036: held_Ctrl_LeftHandIndex1
+    400038: held_Ctrl_LeftHandIndex2
+    400040: held_Ctrl_LeftHandIndex3
+    400042: held_Ctrl_LeftHandIndex4
+    400044: held_Ctrl_LeftHandIndexEffector
+    400046: held_Ctrl_LeftHandMiddle1
+    400048: held_Ctrl_LeftHandMiddle2
+    400050: held_Ctrl_LeftHandMiddle3
+    400052: held_Ctrl_LeftHandMiddle4
+    400054: held_Ctrl_LeftHandMiddleEffector
+    400056: held_Ctrl_LeftHandThumb1
+    400058: held_Ctrl_LeftHandThumb2
+    400060: held_Ctrl_LeftHandThumb3
+    400062: held_Ctrl_LeftHandThumb4
+    400064: held_Ctrl_LeftHandThumbEffector
+    400066: held_Ctrl_LeftHipEffector
+    400068: held_Ctrl_LeftKneeEffector
+    400070: held_Ctrl_LeftLeg
+    400072: held_Ctrl_LeftShoulder
+    400074: held_Ctrl_LeftShoulderEffector
+    400076: held_Ctrl_LeftToeBase
+    400078: held_Ctrl_LeftUpLeg
+    400080: held_Ctrl_LeftWristEffector
+    400082: held_Ctrl_Neck
+    400084: held_Ctrl_Reference
+    400086: held_Ctrl_RightAnkleEffector
+    400088: held_Ctrl_RightArm
+    400090: held_Ctrl_RightElbowEffector
+    400092: held_Ctrl_RightFoot
+    400094: held_Ctrl_RightFootEffector
+    400096: held_Ctrl_RightForeArm
+    400098: held_Ctrl_RightHand
+    400100: held_Ctrl_RightHandIndex1
+    400102: held_Ctrl_RightHandIndex2
+    400104: held_Ctrl_RightHandIndex3
+    400106: held_Ctrl_RightHandIndex4
+    400108: held_Ctrl_RightHandIndexEffector
+    400110: held_Ctrl_RightHandMiddle1
+    400112: held_Ctrl_RightHandMiddle2
+    400114: held_Ctrl_RightHandMiddle3
+    400116: held_Ctrl_RightHandMiddle4
+    400118: held_Ctrl_RightHandMiddleEffector
+    400120: held_Ctrl_RightHandThumb1
+    400122: held_Ctrl_RightHandThumb2
+    400124: held_Ctrl_RightHandThumb3
+    400126: held_Ctrl_RightHandThumb4
+    400128: held_Ctrl_RightHandThumbEffector
+    400130: held_Ctrl_RightHipEffector
+    400132: held_Ctrl_RightKneeEffector
+    400134: held_Ctrl_RightLeg
+    400136: held_Ctrl_RightShoulder
+    400138: held_Ctrl_RightShoulderEffector
+    400140: held_Ctrl_RightToeBase
+    400142: held_Ctrl_RightUpLeg
+    400144: held_Ctrl_RightWristEffector
+    400146: held_Ctrl_Spine
+    400148: held_Ctrl_Spine1
+    400150: held_Ctrl_Spine2
+    400152: held_Ctrl_Spine3
+    400154: held_Ctrl_Spine4
+    400156: held_Head
+    400158: held_Hips
+    400160: held_LeftArm
+    400162: held_LeftFoot
+    400164: held_LeftForeArm
+    400166: held_LeftHand
+    400168: held_LeftHandIndex1
+    400170: held_LeftHandIndex2
+    400172: held_LeftHandIndex3
+    400174: held_LeftHandIndex4
+    400176: held_LeftHandMiddle1
+    400178: held_LeftHandMiddle2
+    400180: held_LeftHandMiddle3
+    400182: held_LeftHandMiddle4
+    400184: held_LeftHandThumb1
+    400186: held_LeftHandThumb2
+    400188: held_LeftHandThumb3
+    400190: held_LeftHandThumb4
+    400192: held_LeftLeg
+    400194: held_LeftShoulder
+    400196: held_LeftToeBase
+    400198: held_LeftUpLeg
+    400200: held_Neck
+    400202: held_Reference
+    400204: held_RightArm
+    400206: held_RightFoot
+    400208: held_RightForeArm
+    400210: held_RightHand
+    400212: held_RightHandIndex1
+    400214: held_RightHandIndex2
+    400216: held_RightHandIndex3
+    400218: held_RightHandIndex4
+    400220: held_RightHandMiddle1
+    400222: held_RightHandMiddle2
+    400224: held_RightHandMiddle3
+    400226: held_RightHandMiddle4
+    400228: held_RightHandThumb1
+    400230: held_RightHandThumb2
+    400232: held_RightHandThumb3
+    400234: held_RightHandThumb4
+    400236: held_RightLeg
+    400238: held_RightShoulder
+    400240: held_RightToeBase
+    400242: held_RightUpLeg
+    400244: held_Spine
+    400246: held_Spine1
+    400248: held_Spine2
+    400250: held_Spine3
+    400252: held_Spine4
+    400254: L_Eye
+    400256: L_Eye_grp
+    400258: R_Eye
+    400260: R_Eye_grp
+    400262: Skin
+    400264: Trousers
+    400266: Eyes
+    400268: Emmon1_LeftFoot
+    400270: Emmon1_LeftForeArm
+    400272: Emmon1_LeftHand
+    400274: Emmon1_LeftHandIndex1
+    400276: Emmon1_LeftHandIndex2
+    400278: Emmon1_LeftHandIndex3
+    400280: Emmon1_LeftHandIndex4
+    400282: Emmon1_LeftHandMiddle1
+    400284: Emmon1_LeftHandMiddle2
+    400286: Emmon1_LeftHandMiddle3
+    400288: Emmon1_LeftHandMiddle4
+    400290: Emmon1_LeftHandPinky1
+    400292: Emmon1_LeftHandPinky2
+    400294: Emmon1_LeftHandPinky3
+    400296: Emmon1_LeftHandPinky4
+    400298: Emmon1_LeftHandRing1
+    400300: Emmon1_LeftHandRing2
+    400302: Emmon1_LeftHandRing3
+    400304: Emmon1_LeftHandRing4
+    400306: Emmon1_LeftHandThumb1
+    400308: Emmon1_LeftHandThumb2
+    400310: Emmon1_LeftHandThumb3
+    400312: Emmon1_LeftHandThumb4
+    400314: Emmon1_LeftToeBase
+    400316: Emmon1_RightFoot
+    400318: Emmon1_RightForeArm
+    400320: Emmon1_RightHand
+    400322: Emmon1_RightHandIndex1
+    400324: Emmon1_RightHandIndex2
+    400326: Emmon1_RightHandIndex3
+    400328: Emmon1_RightHandIndex4
+    400330: Emmon1_RightHandMiddle1
+    400332: Emmon1_RightHandMiddle2
+    400334: Emmon1_RightHandMiddle3
+    400336: Emmon1_RightHandMiddle4
+    400338: Emmon1_RightHandPinky1
+    400340: Emmon1_RightHandPinky2
+    400342: Emmon1_RightHandPinky3
+    400344: Emmon1_RightHandPinky4
+    400346: Emmon1_RightHandRing1
+    400348: Emmon1_RightHandRing2
+    400350: Emmon1_RightHandRing3
+    400352: Emmon1_RightHandRing4
+    400354: Emmon1_RightHandThumb1
+    400356: Emmon1_RightHandThumb2
+    400358: Emmon1_RightHandThumb3
+    400360: Emmon1_RightHandThumb4
+    400362: Emmon1_RightToeBase
+    400364: Emmon_Head
+    400366: Emmon_Hips
+    400368: Emmon_LeftArm
+    400370: Emmon_LeftLeg
+    400372: Emmon_LeftShoulder
+    400374: Emmon_LeftUpLeg
+    400376: Emmon_Neck
+    400378: Emmon_Reference
+    400380: Emmon_RightArm
+    400382: Emmon_RightLeg
+    400384: Emmon_RightShoulder
+    400386: Emmon_RightUpLeg
+    400388: Emmon_Spine
+    400390: Emmon_Spine1
+    400392: Emmon_Spine2
+    2300000: Boots
+    2300002: Coat
+    2300004: Eyes
+    2300006: Hair
+    2300008: Trousers
+    3300000: Boots
+    3300002: Coat
+    3300004: Eyes
+    3300006: Hair
+    3300008: Trousers
+    4300000: Hair
+    4300002: Boots
+    4300004: Trousers
+    4300006: Coat
+    4300008: Skin
+    4300010: L_Eye
+    4300012: R_Eye
+    4300014: Eyes
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boots
+    13700002: Coat
+    13700004: Hair
+    13700006: L_Eye
+    13700008: R_Eye
+    13700010: Skin
+    13700012: Trousers
+    13700014: Eyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Emmon_Neck
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_RightShoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_Spine2
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_LeftShoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Emmon_Head
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Emmon(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Hips
+      position: {x: -7.82881368e-18, y: .726952672, z: -.0401829667}
+      rotation: {x: .0437781028, y: .08485879, z: .456382751, w: .884645283}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon_LeftUpLeg
+      position: {x: -.163894966, y: -1.18471544e-08, z: 1.83727727e-10}
+      rotation: {x: .47865206, y: .157825649, z: .25501895, w: .825196087}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon_LeftLeg
+      position: {x: -.274801612, y: 1.16703924e-09, z: -7.75308484e-10}
+      rotation: {x: .942174137, y: .0399827845, z: .00786427036, w: -.332637221}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon1_LeftFoot
+      position: {x: -.276254147, y: -7.73785813e-10, z: -1.12798981e-09}
+      rotation: {x: .719108701, y: .681979299, z: -.0851868019, w: .102616526}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon1_LeftToeBase
+      position: {x: -.167146266, y: -4.90283536e-10, z: 8.8736285e-10}
+      rotation: {x: -.0438661724, y: -.736144245, z: -.040175315, w: .67420572}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_RightUpLeg
+      position: {x: -.0575332008, y: -.149543002, z: .0355330184}
+      rotation: {x: .697556853, y: .229896799, z: .200469568, w: .648362458}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_RightLeg
+      position: {x: -.274800181, y: 1.09871046e-09, z: 2.32117256e-10}
+      rotation: {x: .973251164, y: .0396897532, z: -.0050377571, w: .226233438}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightFoot
+      position: {x: -.276200116, y: -9.64292868e-10, z: 3.30176442e-09}
+      rotation: {x: .725877047, y: .686387122, z: .0284422133, w: -.0341525823}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightToeBase
+      position: {x: -.167293847, y: 9.23517707e-10, z: 7.55536467e-11}
+      rotation: {x: -.0399286039, y: -.670660973, z: -.0440198332, w: .739379346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Spine
+      position: {x: .150566459, y: .107089706, z: 2.56739074e-16}
+      rotation: {x: .185847893, y: -.608614087, z: .731781304, w: -.244019628}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Spine1
+      position: {x: -.198114216, y: -1.47226398e-09, z: 1.8370391e-16}
+      rotation: {x: .689646721, y: -.00879179966, z: -.00923017412, w: .724033773}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Spine2
+      position: {x: -.210712075, y: -4.94396191e-17, z: 2.98372438e-16}
+      rotation: {x: .0227496158, y: -.00858973805, z: .35313195, w: .935257435}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Emmon_LeftShoulder
+      position: {x: -.135161251, y: -2.25353936e-09, z: -4.80984003e-12}
+      rotation: {x: 0, y: 0, z: .411741436, w: .911300719}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_LeftArm
+      position: {x: -.153208464, y: 3.46791538e-08, z: -8.24949137e-12}
+      rotation: {x: 0, y: 0, z: 5.7224629e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftForeArm
+      position: {x: -.157471821, y: -7.47624185e-13, z: -8.47905079e-12}
+      rotation: {x: 0, y: .00577490078, z: -0, w: .999983311}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHand
+      position: {x: -.298016429, y: -1.41531231e-12, z: -1.60466501e-11}
+      rotation: {x: .00400914112, y: .391474456, z: .00942319352, w: .920132041}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: Emmon1_LeftHandIndex1
+      position: {x: -.0788710341, y: .00416497421, z: -.0095642088}
+      rotation: {x: -.0037337949, y: -.364432126, z: -.00953218993, w: .931173682}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandIndex2
+      position: {x: -.0321711861, y: 4.36151559e-08, z: -5.42099976e-10}
+      rotation: {x: -.00107903325, y: -.00987717789, z: .108584918, w: .994037509}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandIndex3
+      position: {x: -.0313522816, y: -7.26351033e-08, z: 2.98794656e-10}
+      rotation: {x: -.000547560048, y: -.00177127449, z: .0821182579, w: .996620893}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandIndex4
+      position: {x: -.0269318912, y: 8.42270964e-08, z: 6.80945078e-10}
+      rotation: {x: -.00330762845, y: -.0171043426, z: -.189831823, w: .981662095}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandMiddle1
+      position: {x: -.0664383024, y: .00775440922, z: -.0246546175}
+      rotation: {x: -.0115987798, y: -.391256511, z: .00842413399, w: .920170009}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Emmon1_LeftHandMiddle2
+      position: {x: -.0267129634, y: 3.36171873e-08, z: 9.68112569e-12}
+      rotation: {x: .00394836254, y: .0236446653, z: .126295, w: .991703033}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandMiddle3
+      position: {x: -.0297331121, y: 1.11066765e-08, z: 5.52947466e-10}
+      rotation: {x: -.00615999242, y: -.0232099965, z: -.0326911993, w: .999176979}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandMiddle4
+      position: {x: -.0262675099, y: -1.60809073e-08, z: 9.91094359e-11}
+      rotation: {x: -3.54174949e-06, y: -3.06227339e-05, z: -.113116182, w: .993581772}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandPinky1
+      position: {x: -.0402873605, y: -.0031703962, z: -.0381297618}
+      rotation: {x: .0256075915, y: -.39065659, z: -.0789811835, w: .916784465}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon1_LeftHandPinky2
+      position: {x: -.0392974131, y: 1.55924766e-08, z: -1.93119826e-12}
+      rotation: {x: -.00429406902, y: .0962152481, z: .106095895, w: .989680707}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon1_LeftHandPinky3
+      position: {x: -.0257240757, y: 1.89281835e-08, z: -1.02523334e-09}
+      rotation: {x: .00498119043, y: .0220105555, z: .159638926, w: .986917496}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandPinky4
+      position: {x: -.0235950276, y: -4.72051305e-08, z: -8.8426928e-09}
+      rotation: {x: -.0225973483, y: -.11657884, z: -.188949004, w: .9747805}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandRing1
+      position: {x: -.0505328774, y: .00399810728, z: -.0328250639}
+      rotation: {x: -.00361285708, y: -.35277909, z: -.00958212093, w: .935650587}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Emmon1_LeftHandRing2
+      position: {x: -.0313996486, y: -2.82662782e-13, z: -9.1614355e-10}
+      rotation: {x: 0, y: .0444884598, z: -0, w: .999009907}
+      scale: {x: 1.00000036, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: Emmon1_LeftHandRing3
+      position: {x: -.0298522227, y: -2.88657986e-13, z: -2.12907497e-10}
+      rotation: {x: -.0195077136, y: -.0838537589, z: .225748032, w: .970374048}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandRing4
+      position: {x: -.0273541193, y: 6.46089982e-09, z: 3.71186498e-10}
+      rotation: {x: -2.8279854e-09, y: 1.93723793e-07, z: -.226589337, w: .973990381}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandThumb1
+      position: {x: -.0540894978, y: -5.24530144e-08, z: 2.25016397e-08}
+      rotation: {x: .00417147251, y: .407325327, z: -.00935246609, w: .91322577}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandThumb2
+      position: {x: -.00712901354, y: -.0135128498, z: -.00273801549}
+      rotation: {x: .00962730963, y: .0270457659, z: .335212767, w: .941704988}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_LeftHandThumb3
+      position: {x: -.0152847292, y: 9.30570376e-09, z: 2.00551664e-08}
+      rotation: {x: -.424085498, y: -.339692026, z: .176226273, w: .820795417}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Emmon1_LeftHandThumb4
+      position: {x: -.0125941755, y: 3.00268432e-08, z: -1.6656081e-08}
+      rotation: {x: .272826105, y: .441546053, z: -.449293673, w: .727143884}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Neck
+      position: {x: -.121308737, y: .106838182, z: -.0078604864}
+      rotation: {x: .608916223, y: -.359473258, z: -.132684633, w: .694546461}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_Head
+      position: {x: -.261857599, y: 1.54400208e-08, z: 1.45063326e-16}
+      rotation: {x: -.406892449, y: .578306615, z: .406892449, w: .578306615}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_RightShoulder
+      position: {x: -.0170769077, y: .134078115, z: 4.81030493e-12}
+      rotation: {x: -.411763817, y: .911290646, z: -8.10137251e-17, w: -3.05872001e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon_RightArm
+      position: {x: -.147405788, y: -4.47491821e-08, z: -7.93704685e-12}
+      rotation: {x: 0, y: 0, z: 1.87522364e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightForeArm
+      position: {x: -.166023225, y: -4.4408921e-16, z: -8.93955049e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHand
+      position: {x: -.29917264, y: 0, z: -1.61090169e-11}
+      rotation: {x: -.0492044203, y: -.42369467, z: .104336247, w: .898429573}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandIndex1
+      position: {x: -.0676064193, y: .0185358059, z: .0105349617}
+      rotation: {x: .0442724377, y: .34553805, z: -.097119607, w: .932314992}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandIndex2
+      position: {x: -.0308021996, y: 7.45426973e-08, z: -4.7781703e-09}
+      rotation: {x: .00575817423, y: .0607735254, z: .0706390738, w: .995632231}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandIndex3
+      position: {x: -.0303236768, y: -2.58321595e-08, z: 6.04662487e-10}
+      rotation: {x: -.00519377179, y: -.0213279575, z: .0734896362, w: .997054398}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandIndex4
+      position: {x: -.0263558924, y: -6.0255303e-08, z: 3.13387183e-09}
+      rotation: {x: .15542464, y: .986790299, z: .00710968859, w: -.0451393798}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandMiddle1
+      position: {x: -.0528707616, y: .0190148484, z: .0220728125}
+      rotation: {x: .0391203016, y: .336861044, z: -.108520582, w: .934461117}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandMiddle2
+      position: {x: -.0386584625, y: 5.08531617e-09, z: -8.35508018e-09}
+      rotation: {x: .00360459159, y: .0711122304, z: .0504951552, w: .996182859}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandMiddle3
+      position: {x: -.0247970205, y: 8.69717738e-08, z: 2.31606179e-09}
+      rotation: {x: -.00766932312, y: -.0353812762, z: .111860916, w: .993064225}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandMiddle4
+      position: {x: -.0271916781, y: -6.45942322e-08, z: -3.6067388e-10}
+      rotation: {x: .161808297, y: .985021293, z: .00965954643, w: -.058803279}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandPinky1
+      position: {x: -.028341189, y: .00256869104, z: .0460678637}
+      rotation: {x: .0166666321, y: .318365186, z: -.168685466, w: .932690263}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Emmon1_RightHandPinky2
+      position: {x: -.0363260843, y: -1.06594463e-07, z: -6.2998935e-09}
+      rotation: {x: .000840680848, y: -.027651852, z: .0960437655, w: .994992614}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandPinky3
+      position: {x: -.0263514053, y: 7.69857706e-08, z: 3.26861915e-09}
+      rotation: {x: .00773360487, y: .0573226027, z: .068100743, w: .99600029}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandPinky4
+      position: {x: -.0220504031, y: 2.35348736e-08, z: -4.58761518e-09}
+      rotation: {x: .100640148, y: .991208613, z: .0086760344, w: -.0854505897}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandRing1
+      position: {x: -.0406062044, y: .0145413252, z: .0341506675}
+      rotation: {x: .0396825261, y: .341702282, z: -.10831625, w: .932701707}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandRing2
+      position: {x: -.0341723636, y: 5.11081844e-09, z: -5.13391507e-09}
+      rotation: {x: 1.19082921e-09, y: .0372249447, z: -3.19679145e-08, w: .999306917}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandRing3
+      position: {x: -.0295531061, y: 2.52214005e-09, z: -1.09397702e-09}
+      rotation: {x: -.0140685141, y: -.0848164782, z: .163028374, w: .982868254}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandRing4
+      position: {x: -.0269430354, y: -6.64029542e-08, z: -3.68863801e-10}
+      rotation: {x: .162070945, y: .977095842, z: .0225653686, w: -.136042446}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandThumb1
+      position: {x: -.0368475467, y: 2.8606042e-08, z: -3.22925264e-09}
+      rotation: {x: -.0164151285, y: -.0555926971, z: .055765368, w: .996759892}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Emmon1_RightHandThumb2
+      position: {x: -.0263478179, y: -5.77534429e-08, z: -3.72123887e-10}
+      rotation: {x: -.085351944, y: -.151201412, z: .167482838, w: .970465183}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandThumb3
+      position: {x: -.0162744392, y: 8.68388383e-09, z: 1.06282183e-09}
+      rotation: {x: .339027017, y: .230620041, z: .25963518, w: .87433672}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Emmon1_RightHandThumb4
+      position: {x: -.00813990552, y: 2.07358664e-08, z: 3.542455e-09}
+      rotation: {x: .571555316, y: .78216666, z: .146362096, w: -.200294778}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: geometry
+      position: {x: -.00130491261, y: .943974614, z: .0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boots
+      position: {x: .00130491261, y: -.943974614, z: -.0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Coat
+      position: {x: .00130491261, y: -.943974614, z: -.0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Eyes
+      position: {x: .00130491261, y: -.943974614, z: -.0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair
+      position: {x: .00130491261, y: -.943974614, z: -.0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Skin
+      position: {x: .00130491261, y: -.943974614, z: -.0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Trousers
+      position: {x: .00130491261, y: -.943974614, z: -.0105267484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
